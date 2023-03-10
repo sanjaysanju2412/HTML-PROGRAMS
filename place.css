@@ -1,0 +1,12 @@
+.one{
+    background-color: rgb(70, 181, 209);
+    height: 80vh;
+    width: 80%;
+}
+.two{
+    background-color: white;
+    height: 25vh;
+    width: 90%;
+    margin-left: 50px;
+    
+}
